@@ -1,0 +1,9 @@
+{
+  "name": "desmos",
+  "displayName": "Desmos",
+  "version": "1.0.0",
+  "description": "Draw, check, and iterate on live Desmos graphs (2D and 3D) from Claude. Claude sees Desmos errors, evaluations, and screenshots.",
+  "author": { "name": "Your Name" },
+  "license": "MIT",
+  "keywords": ["desmos", "math", "graphing", "calculus", "education", "visualization"]
+}
