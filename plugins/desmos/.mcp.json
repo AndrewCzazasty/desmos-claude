@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "desmos": {
-      "command": "node",
+      "command": "C:\\Program Files\\nodejs\\node.exe",
       "args": ["${CLAUDE_PLUGIN_ROOT}/server/index.js"],
       "env": {
         "DESMOS_API_KEY": "${DESMOS_API_KEY:-dcb31709b452b1cf9dc26972add0fda6}",
