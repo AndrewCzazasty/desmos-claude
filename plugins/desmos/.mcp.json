@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "desmos": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/server/index.js"],
+      "env": {
+        "DESMOS_API_KEY": "${DESMOS_API_KEY:-dcb31709b452b1cf9dc26972add0fda6}",
+        "DESMOS_PORT": "${DESMOS_PORT:-7878}"
+      }
+    }
+  }
+}
