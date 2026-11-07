@@ -1,0 +1,11 @@
+{
+  "name": "desmos-marketplace",
+  "owner": { "name": "Andrew Czazasty" },
+  "plugins": [
+    {
+      "name": "desmos",
+      "source": "./plugins/desmos",
+      "description": "Live Desmos graphing for Claude: create, check, screenshot, and export graphs."
+    }
+  ]
+}
